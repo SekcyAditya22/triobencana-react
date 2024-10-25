@@ -8,6 +8,6 @@ Dibuat oleh Aditya & Muza & Gibran dengan React Js
 22.83.0883 - Muzakir M Nur
 22.83.0831 - Gibran Hait Sami
 
-Dapat diakses juga di https://adityamadjid.shop
+
 
 
